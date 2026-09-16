@@ -1,0 +1,3 @@
+100,gojo,24,male,7418529631,japan,B+
+101,jojo,29,male,7894561232,Japan,A+
+102,kalki,35,Female,9638527413,Japan,AB-

@@ -1,0 +1,8 @@
+999,Amlodipine,103.45,35
+998,Atorvastatin,203.52,24
+997,Metoprolol,163.26,43
+996,Aspirin,231.63,123
+888,Cetirizine,36.23,25
+887,Clotrimazole cream,50,87
+886,Hydrocortisone cream,42.36,62
+885,Adapalene,46.32,53
